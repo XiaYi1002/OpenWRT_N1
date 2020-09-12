@@ -30,4 +30,4 @@ svn co https://github.com/Lienol/openwrt/trunk/package/diy/luci-app-adguardhome 
 svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/luci-theme-atmaterial package/luci-theme-atmaterial #atmaterial主题
 git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns  #smartdns
 git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/luci-app-jd-dailybonus #京东自动签到插件 
-
+git clone https://github.com/jerrykuku/node-request.git package/node-request #京东自动签到插件依赖
